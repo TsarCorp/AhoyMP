@@ -33,6 +33,8 @@ public class MyNetworkManager : NetworkManager
         CancelInvoke();
     }
 
+    
+
     void PrintDots()
     {
         Debug.Log(".");
